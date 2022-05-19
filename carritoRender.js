@@ -2,31 +2,31 @@
 const baseDato = [
     {
         id: 1,
-        nombre: 'Agua Ciel embotellada',
+        nombre: 'Agua Bonafont embotellada',
         precio: 11,
         imagen: "images/agua.jpg"
     },
     {
         id: 2,
-        nombre: 'Cereal',
+        nombre: 'Chocokrispis',
         precio: 70,
         imagen: "images/cereal.jpg"
     },
     {
         id: 3,
-        nombre: 'Detergente',
+        nombre: 'Jabón líquido',
         precio: 80,
         imagen: "images/detergente.png"
     },
     {
         id: 4,
-        nombre: 'Plátanos',
+        nombre: 'Bananas',
         precio: 20,
         imagen: "images/platanos.jpg"
     },
     {
         id: 5,
-        nombre: 'Leche',
+        nombre: 'Leche deslactosada',
         precio: 40,
         imagen: "images/leche.png"
     },
